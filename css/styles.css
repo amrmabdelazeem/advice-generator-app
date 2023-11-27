@@ -84,7 +84,7 @@ h1{
     background-size: contain;
 }
 
-main{
+.advice{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -117,7 +117,7 @@ footer{
     #advice{
         padding: 0 2rem;
     }
-    main{
+    .advice{
         margin-bottom: 1rem;
     }
     #pattern-divider{
