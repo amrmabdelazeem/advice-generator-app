@@ -97,7 +97,7 @@ main{
     }
     .container{
         width: 545px;
-        height: 340px;
+        height: 310px;
     }
     header{
         margin-top: 0;
@@ -113,12 +113,13 @@ main{
     #pattern-divider{
         background-image: url("../images/pattern-divider-desktop.svg");
         width:450px;
+        margin-bottom: 1rem;
     }
 
     .dice-container{
         width: 35px;
         position: absolute;
-        top: 550px;
+        top: 460px;
     }
     .dice-container:hover{
         cursor: pointer;
