@@ -20,7 +20,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-section{
+#container{
     background-color: var(--darkBlue);
     display: flex;
     flex-direction: column;
@@ -46,7 +46,7 @@ h1{
     letter-spacing: 4px;
 }
 
-header{
+#heading{
     margin-top: 2rem;
 }
 
@@ -99,14 +99,14 @@ footer{
 }
 
 @media (min-width:1440px){
-    section{
+    #container{
         width: 1440px;
     }
     .container{
         width: 545px;
         height: 320px;
     }
-    header{
+    #heading{
         margin-top: 0;
         margin-bottom: 2rem;
     }
