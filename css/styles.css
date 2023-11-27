@@ -128,8 +128,7 @@ footer{
 
     .dice-container{
         width: 28px;
-        position: absolute;
-        top: 470px;
+        
     }
     .dice-container:hover{
         cursor: pointer;
