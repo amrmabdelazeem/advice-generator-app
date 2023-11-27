@@ -11,3 +11,35 @@
 *{
     font-family: 'Manrope', sans-serif;
 }
+
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-color: var(--darkBlue);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 375px;
+    height: 100dvh;
+}
+
+.container{
+    background-color: var(--darkGrayishBlue);
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#pattern-divider{
+    background-image: url("../images/pattern-divider-mobile.svg");
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 290px;
+}
+
