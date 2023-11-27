@@ -117,6 +117,9 @@ footer{
     #advice{
         padding: 0 2rem;
     }
+    main{
+        margin-bottom: 1rem;
+    }
     #pattern-divider{
         background-image: url("../images/pattern-divider-desktop.svg");
         width:450px;
