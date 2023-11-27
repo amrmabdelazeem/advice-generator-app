@@ -32,6 +32,9 @@ Users should be able to:
 
 ### Screenshot
 
+![Laptop](screenshots/kgQKPKzz5H.jpg)
+---
+![Mobile](screenshots/kgQKPKzz5Hz.png)
 
 ### Links
 
@@ -80,5 +83,5 @@ async function getApi(apiUrl){
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Github](https://github.com/amrmabdelazeem)
+- Frontend Mentor - [@amrmabdelazeem](https://www.frontendmentor.io/profile/amrmabdelazeem)
