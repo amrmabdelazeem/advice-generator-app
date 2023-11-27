@@ -13,6 +13,7 @@
 }
 
 body{
+    background-color: var(--darkBlue);
     margin: 0;
     padding: 0;
 }
@@ -28,18 +29,47 @@ section{
 
 .container{
     background-color: var(--darkGrayishBlue);
-    width: 350px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     border-radius: 10px;
+    width: 350px;
+}
+
+h1{
+    color: var(--neonGreen);
+    font-size: .7rem;
+    letter-spacing: 4px;
 }
 
 #pattern-divider{
     background-image: url("../images/pattern-divider-mobile.svg");
     background-repeat: no-repeat;
     height: 32px;
-    width: 290px;
+    width: 310px;
+    background-size: contain;
 }
 
+.dice-container{
+    background-color: var(--neonGreen);
+    width: 20px;
+    padding: 1rem;
+    border-radius: 50%;
+    position: relative;
+    top: 1.2rem;
+}
+
+#dice{
+    background-image: url("../images/icon-dice.svg");
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
