@@ -11,10 +11,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -66,7 +64,7 @@ Users should be able to:
 
 ### What I learned
 
-This is the first project to use async await function:
+This is the first project on frontend mentor using async await function:
 
 ```js
 async function getApi(apiUrl){
