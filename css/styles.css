@@ -91,7 +91,7 @@ h1{
     align-items: center;
 }
 
-footer{
+.footer{
     display: flex;
     flex-direction: column;
     justify-content: center;
