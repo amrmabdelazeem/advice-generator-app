@@ -53,7 +53,7 @@ Users should be able to:
 - Build Laptop preview to fit the design using media queries and test it.
 - Test the finish result.
 
-## Bonus: Add animation to the dice to shake when hovered.
+- ## Bonus: Add animation to the dice to shake when hovered.
 
 
 ### Built with
