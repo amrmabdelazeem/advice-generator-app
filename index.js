@@ -12,5 +12,8 @@ async function getApi(apiUrl){
 
 }
 
-getApi(apiUrl);
 
+const diceButton = document.querySelector(".dice-container");
+diceButton.addEventListener("click", function(){
+    getApi(apiUrl);
+});
