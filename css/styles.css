@@ -105,6 +105,7 @@ h1{
     .container{
         width: 545px;
         height: 320px;
+        position: relative;
     }
     #heading{
         margin-top: 0;
@@ -128,6 +129,8 @@ h1{
 
     .dice-container{
         width: 28px;
+        position: absolute;
+        top: 290px;
         
     }
     .dice-container:hover{
