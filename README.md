@@ -49,8 +49,12 @@ Users should be able to:
 - Implement responsive design to ensure the solution looks good on both mobiles (375px) and laptops (1440px).
 - Research for the needed API to fetch it in the project.
 - Use Javascript to call the API and add functionality through out the interface.
+- Add Functionality to the dice icon to show and change advices.
 - Build Laptop preview to fit the design using media queries and test it.
 - Test the finish result.
+
+## Bonus: Add animation to the dice to shake when hovered.
+
 
 ### Built with
 
@@ -61,6 +65,7 @@ Users should be able to:
 - Responsive design
 - JavaScript (E6)
 - API
+- Animation
 
 ### What I learned
 
